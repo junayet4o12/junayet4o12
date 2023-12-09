@@ -23,10 +23,11 @@
 
 ## __Current Stats__
 
+<img height="30" src="https://github.com/junayet4o12/junayet4o12/blob/0b3a74787282f47c7d7c2d0c5a623103a2eaa659/src/logo/stats.png"> 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junayet4o12&theme=gotham&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
 
-<img height="30" src="https://github.com/junayet4o12/junayet4o12/blob/0b3a74787282f47c7d7c2d0c5a623103a2eaa659/src/logo/stats.png"> 
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junayet4o12&show_icons=true&locale=en&layout=compact" alt="junayet4o12" /></p>
 
