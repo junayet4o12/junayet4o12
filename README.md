@@ -5,7 +5,8 @@
 
 <h1 align="center">I'm Junayet Alam</h1>
  <h3 align="center">A dedicated web developer with a keen eye for clean and efficient code, hailing.</h3>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> 
+<a href="https://twitter.com/" target="blank"><img src="https://github.com/junayet4o12/junayet4o12/blob/43e146377be501542c909cc01b40e794aeb8aef8/src/Banner/githubBanner.jpg" alt="" /></a> </p>
 
 
 
