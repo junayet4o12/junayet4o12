@@ -1,6 +1,5 @@
-<div style="background-color: white">
+<div style="background-color: #d8fbe5; padding: 20px;">
 
-### Running 👋
 ![alt text](https://github.com/junayet4o12/junayet4o12/blob/43e146377be501542c909cc01b40e794aeb8aef8/src/Banner/githubBanner.jpg)
 
 <h1 align="center">I'm Junayet Alam</h1>
@@ -14,7 +13,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junayet4o12&theme=gotham&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" gap="5"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -29,4 +28,8 @@
 </p>
 
 </div>
+
+
+
+
 
