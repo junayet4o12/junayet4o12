@@ -1,7 +1,7 @@
 ### Running 👋
 ![alt text](https://github.com/junayet4o12/junayet4o12/blob/43e146377be501542c909cc01b40e794aeb8aef8/src/Banner/githubBanner.jpg)
 
-### Current Stats
+<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/) ### __Current Stats__
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junayet4o12&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
 <!--
