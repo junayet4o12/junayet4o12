@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad maruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad maruf" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad junayet maruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad junayet maruf" height="30" width="40" /></a>
+<a href="https://bd.linkedin.com/in/muhammad-maruf-79b442214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad maruf" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100056107479254&mibextid=qWsEUC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad junayet maruf" height="30" width="40" /></a>
 </p>
 
 ## __Current Stats__
