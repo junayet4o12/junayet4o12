@@ -65,7 +65,7 @@
   **Live link** : https://blog-16a2c.web.app/
 
   **Project Over View**:
-  -  MERN-based, secure Medical Camp Management. Unique design with Firebase authentication. Practical components and feature-rich, setting it apart in healthcare management.
+  - React/Vite-powered, prioritizing user-friendly features and secure Firebase authentication. Enhanced with React Data Table and Framer Motion for optimal user experience, and JWT integration ensures robust security for an enjoyable blogging and reading platform.
 
   **Client Side Code** : https://github.com/junayet4o12/blog-vortex
 
@@ -75,7 +75,7 @@
   **Live link** : https://dimple-firebase-b07ed.web.app
 
   **Project Over View**:
-  -  MERN-based, secure Medical Camp Management. Unique design with Firebase authentication. Practical components and feature-rich, setting it apart in healthcare management.
+  -  Electronic instrument shop with a responsive design and toggle-theme feature. MongoDB for seamless data management, and Firebase Authentication for secure access, ensuring a protected user experience.
 
   **Client Side Code** : https://github.com/junayet4o12/panda-electronics
 
