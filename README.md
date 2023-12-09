@@ -4,7 +4,21 @@
 
 <h1 align="center">I'm Junayet Alam</h1>
  <h3 align="center">A dedicated web developer with a keen eye for clean and efficient code, hailing.</h3>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+
+- 🌱 I’m currently Exploring **MongoDB**
+
+- 💬 Ask me about **react, css, html, tailwind**
+
+- 📫 How to reach me **muhammadjunayetmaruf@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad maruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad maruf" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad junayet maruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad junayet maruf" height="30" width="40" /></a>
+</p>
 
 ## __Current Stats__
 <img height="30" src="https://github.com/junayet4o12/junayet4o12/blob/0b3a74787282f47c7d7c2d0c5a623103a2eaa659/src/logo/stats.png"> 
