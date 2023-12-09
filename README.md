@@ -1,5 +1,7 @@
 ### Running 👋
-![alt text](https://i.ibb.co/FKQJxcF/github-Banner-1.jpg)
+![alt text](https://github.com/junayet4o12/junayet4o12/blob/43e146377be501542c909cc01b40e794aeb8aef8/src/Banner/githubBanner.jpg)
+
+###Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junayet4o12&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)
 <!--
 **junayet4o12/junayet4o12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
