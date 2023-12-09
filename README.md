@@ -51,6 +51,7 @@
 
 # __My projects__
 - ### Mediserve Mobilize
+  **Project Over View**:
   **Live link** : https://mediserve-mobilize.web.app/
 
   **Client Side Code** : https://github.com/junayet4o12/mediserve-mobilize
@@ -64,7 +65,12 @@
 
   **Server Side Code** : https://github.com/junayet4o12/blog-vortex-backend
 
+- ### Panda Electronics
+  **Live link** : https://dimple-firebase-b07ed.web.app
 
+  **Client Side Code** : https://github.com/junayet4o12/panda-electronics
+
+  **Server Side Code** : https://github.com/junayet4o12/panda-electronics-backend
 
 </div>
 
