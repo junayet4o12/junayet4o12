@@ -51,7 +51,10 @@
 
 # __My projects__
 - ### Mediserve Mobilize
+  
   **Project Over View**:
+  -  MERN-based, secure Medical Camp Management. Unique design with Firebase authentication. Practical components and feature-rich, setting it apart in healthcare management.
+    
   **Live link** : https://mediserve-mobilize.web.app/
 
   **Client Side Code** : https://github.com/junayet4o12/mediserve-mobilize
@@ -61,12 +64,18 @@
 - ### Blog Vortex
   **Live link** : https://blog-16a2c.web.app/
 
+  **Project Over View**:
+  -  MERN-based, secure Medical Camp Management. Unique design with Firebase authentication. Practical components and feature-rich, setting it apart in healthcare management.
+
   **Client Side Code** : https://github.com/junayet4o12/blog-vortex
 
   **Server Side Code** : https://github.com/junayet4o12/blog-vortex-backend
 
 - ### Panda Electronics
   **Live link** : https://dimple-firebase-b07ed.web.app
+
+  **Project Over View**:
+  -  MERN-based, secure Medical Camp Management. Unique design with Firebase authentication. Practical components and feature-rich, setting it apart in healthcare management.
 
   **Client Side Code** : https://github.com/junayet4o12/panda-electronics
 
