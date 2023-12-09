@@ -1,3 +1,5 @@
+<div style="background-color: white">
+
 ### Running 👋
 ![alt text](https://github.com/junayet4o12/junayet4o12/blob/43e146377be501542c909cc01b40e794aeb8aef8/src/Banner/githubBanner.jpg)
 
@@ -25,4 +27,6 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
     </a>
 </p>
+
+</div>
 
