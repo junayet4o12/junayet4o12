@@ -1,15 +1,13 @@
-![alt text](https://github.com/junayet4o12/junayet4o12/blob/43e146377be501542c909cc01b40e794aeb8aef8/src/Banner/githubBanner.jpg)
+<img src="./src/Banner/githubBanner.jpg" />
+<div style="background: #0d1117; padding: 20px;">
 
-<div style="background-color: #d8fbe5; padding: 20px;">
-
-
-<h1 align="center">I'm Junayet Alam</h1>
- <h3 align="center">Experienced web developer proficient in HTML, CSS, React, Express.js, Node.js, and MongoDB. Currently focused on enhancing skills in MongoDB for efficient database management.</h3>
+<h1>MERN Stack Developer</h1>
+ <p style="color: #ffffff; font-size: 16px;">A MERN Stack Developer with expertise in related Technologies. My specialty and interest are to make functionality in both the Front-End and Backend part of a project to increase user-friendliness. I enjoy challenges and am eager to contribute my skills to a dynamic team.</p>
 
 
-- 🌱 I’m currently Exploring **MongoDB**
+- 🌱 I’m currently Exploring **Redux and its related**
 
-- 💬 Ask me about **react, css, html, tailwind**
+- 💬 Ask me about **react, node.js, redux**
 
 - 📫 How to reach me **muhammadjunayetmaruf@gmail.com**
 
@@ -21,42 +19,73 @@
 
 ## __Current Stats__
 
-<img height="30" src="https://github.com/junayet4o12/junayet4o12/blob/0b3a74787282f47c7d7c2d0c5a623103a2eaa659/src/logo/stats.png"> 
+<img height="30" src="./src/logo/stats.png"> 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junayet4o12&theme=gotham&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=1000)](https://git.io/streak-stats)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junayet4o12&show_icons=true&locale=en&layout=compact" alt="junayet4o12" /></p>
+<p style="">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junayet4o12&show_icons=true&locale=en&layout=compact" alt="junayet4o12" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junayet4o12&show_icons=true&locale=en" alt="junayet4o12" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" gap="5" style=" padding: 20px; gap: 20px, background-color: #f0f0f0"> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-    </a>
-</p>
+ <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,redux,firebase,tailwind,vercel" />
 
-# __My projects__
-- ### Mediserve Mobilize
-  
-  **Project Over View**:
-  -  MERN-based, secure Medical Camp Management. Unique design with Firebase authentication. Practical components and feature-rich, setting it apart in healthcare management.
-    
-  **Live link** : https://mediserve-mobilize.web.app/
+# Mediserve Mobilize
 
-  **Client Side Code** : https://github.com/junayet4o12/mediserve-mobilize
+## Overview
+Mediserve Mobilize is a comprehensive, secure, and user-friendly Medical Camp Management system built with the MERN stack. This solution is designed to streamline healthcare management with an intuitive interface and feature-rich components, setting it apart in the healthcare domain. The project leverages Firebase for seamless authentication, ensuring data security and ease of use for medical professionals and camp managers alike.
 
-  **Server Side Code** : https://github.com/junayet4o12/mediserve-mobilize-backend
+## Key Features
+- **MERN Stack**: Full-stack web application using MongoDB, Express.js, React, and Node.js.
+- **Secure Authentication**: Powered by Firebase to ensure secure login and user data management.
+- **Unique Design**: A modern and responsive UI designed for ease of use in managing medical camps.
+- **Feature-Rich**: A wide range of practical components tailored for healthcare management needs.
+
+## Live Demo
+Explore the application in action here: [Mediserve Mobilize Live](https://mediserve-mobilize.web.app/)
+
+## Source Code
+- **Client-Side Repository**: [View Client Code](https://github.com/junayet4o12/mediserve-mobilize)
+- **Server-Side Repository**: [View Server Code](https://github.com/junayet4o12/mediserve-mobilize-backend)
+# Mediserve Mobilize
+
+## Overview
+Mediserve Mobilize is a comprehensive, secure, and user-friendly Medical Camp Management system built with the MERN stack. This solution is designed to streamline healthcare management with an intuitive interface and feature-rich components, setting it apart in the healthcare domain. The project leverages Firebase for seamless authentication, ensuring data security and ease of use for medical professionals and camp managers alike.
+
+## Key Features
+- **MERN Stack**: Full-stack web application using MongoDB, Express.js, React, and Node.js.
+- **Secure Authentication**: Powered by Firebase to ensure secure login and user data management.
+- **Unique Design**: A modern and responsive UI designed for ease of use in managing medical camps.
+- **Feature-Rich**: A wide range of practical components tailored for healthcare management needs.
+
+## Live Demo
+Explore the application in action here: [Mediserve Mobilize Live](https://mediserve-mobilize.web.app/)
+
+## Source Code
+- **Client-Side Repository**: [View Client Code](https://github.com/junayet4o12/mediserve-mobilize)
+- **Server-Side Repository**: [View Server Code](https://github.com/junayet4o12/mediserve-mobilize-backend)
+# Mediserve Mobilize
+
+## Overview
+Mediserve Mobilize is a comprehensive, secure, and user-friendly Medical Camp Management system built with the MERN stack. This solution is designed to streamline healthcare management with an intuitive interface and feature-rich components, setting it apart in the healthcare domain. The project leverages Firebase for seamless authentication, ensuring data security and ease of use for medical professionals and camp managers alike.
+
+## Key Features
+- **MERN Stack**: Full-stack web application using MongoDB, Express.js, React, and Node.js.
+- **Secure Authentication**: Powered by Firebase to ensure secure login and user data management.
+- **Unique Design**: A modern and responsive UI designed for ease of use in managing medical camps.
+- **Feature-Rich**: A wide range of practical components tailored for healthcare management needs.
+
+## Live Demo
+Explore the application in action here: [Mediserve Mobilize Live](https://mediserve-mobilize.web.app/)
+
+## Source Code
+- **Client-Side Repository**: [View Client Code](https://github.com/junayet4o12/mediserve-mobilize)
+- **Server-Side Repository**: [View Server Code](https://github.com/junayet4o12/mediserve-mobilize-backend)
+
 
 - ### Blog Vortex
   **Live link** : https://blog-16a2c.web.app/
