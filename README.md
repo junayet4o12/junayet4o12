@@ -43,10 +43,17 @@
 
 <h2 style="font-size: 1.8em; color: #f3d559;">📈 GitHub Stats</h2>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=junayet4o12&show_icons=true&theme=gotham" alt="GitHub Stats" />
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=junayet4o12&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<div style="margin-top: 20px;">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junayet4o12&bg_color=0c1014&color=259076&line=259076&point=259076&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</div>
+
 
 <hr style="border: 1px solid #f3d559;" />
 
