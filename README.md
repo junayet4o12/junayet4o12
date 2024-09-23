@@ -1,6 +1,6 @@
 <img src="./src/Banner/githubBanner.jpg" alt="GitHub Banner" />
 
-<div style="background: #0d1117; padding: 20px;">
+<div style=" padding: 20px;">
 
 <h1 style="font-size: 2.5em; margin-bottom: 10px; color: #f3d559;">Hi, I'm Junayet! 👋</h1>
 
@@ -8,7 +8,13 @@
   I’m a passionate <strong>MERN Stack Developer</strong> with expertise in both front-end and back-end technologies. My approach to development combines cutting-edge tech with a focus on user-friendliness and robust functionality. I love tackling complex challenges and delivering scalable solutions.
 </p>
 
+<p style="color: #ffffff; font-size: 1.1em;">
+  🌐 Check out my portfolio: <a href="https://junayet-alam-portfolio.vercel.app/" style="color: #f3d559;" target="_blank">junayet-alam-portfolio.vercel.app</a>
+</p>
+
 <hr style="border: 1px solid #f3d559;" />
+
+
 
 <h2 style="font-size: 1.8em; color: #f3d559;">🚀 About Me</h2>
 
