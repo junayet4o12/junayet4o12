@@ -43,9 +43,9 @@
 
 <h2 style="font-size: 1.8em; color: #f3d559;">📈 GitHub Stats</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=junayet4o12&show_icons=true&theme=gotham" alt="GitHub Stats" />
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=junayet4o12&theme=gotham&hide_border=true" alt="GitHub Streak" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+  <img height="200px" width="420px" src="https://github-readme-stats.vercel.app/api?username=junayet4o12&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
+  <img height="200px" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=junayet4o12&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div style="margin-top: 20px;">
