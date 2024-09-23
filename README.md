@@ -15,11 +15,23 @@
 <ul style="color: #ffffff; font-size: 1.1em; list-style-type: disc; padding-left: 20px;">
   <li>👨‍💻 Currently exploring <strong>Redux</strong> and improving my state management skills.</li>
   <li>🎯 Focused on <strong>scalability</strong> and improving the <strong>performance</strong> of web applications.</li>
-  <li>🌱 Enthusiastic about learning new technologies and enhancing my expertise in <strong>DevOps</strong> and <strong>Cloud Computing</strong>.</li>
+  <li>🌱 Enthusiastic about learning new technologies and enhancing my expertise in <strong>problem solving</strong> and <strong>UI optimization</strong>.</li>
   <li>💬 Reach out to me for discussions on <strong>React, Node.js, Redux, MongoDB</strong>.</li>
   <li>📧 How to contact me: <strong>muhammadjunayetmaruf@gmail.com</strong></li>
+  <li>📍 Location: Feni, Bangladesh</li>
+  <li>📞 Phone: +880-1632-884012</li>
   <li>⚡ Fun fact: I love solving puzzles, which translates into my coding process — turning complexity into simplicity!</li>
 </ul>
+
+---
+
+<h2 style="font-size: 1.8em;">📚 Education</h2>
+
+<p style="color: #ffffff; font-size: 1.1em;">
+  <strong>Diploma in Engineering (Computer Technology)</strong> <br>
+  Feni Polytechnic Institute, Feni <br>
+  <em>2020 - Present</em>
+</p>
 
 ---
 
@@ -46,43 +58,54 @@
 
 <h2 style="font-size: 1.8em;">📌 Featured Projects</h2>
 
-### 🏥 Mediserve Mobilize
+# 🏋️‍♂️ Fitness Studio
+A fitness tracking platform integrating with Strava, allowing users to monitor health and connect with others.
 
-A secure and intuitive Medical Camp Management system leveraging the MERN stack. It streamlines healthcare management with Firebase authentication for security and user-friendly UI designed for medical professionals.
+- **Duration**: Jan 2024 – Mar 2024
+- **Live Demo**: [View Here](https://fitness-studio.surge.sh/)
+- **Code**: [Client](https://github.com/junayet4o12/Fitness-Studio-Client-Side) | [Server](https://github.com/junayet4o12/fitnessStudio-serverSide) | [Socket.io](https://github.com/junayet4o12/fitness-studio-socket-io)
+  
+### Features:
+- User profile updates and fitness tracking.
+- Real-time chat and activity comparison.
 
-- **Tech Stack**: MERN (MongoDB, Express.js, React, Node.js), Firebase.
-- **Demo**: [Mediserve Mobilize Live](https://mediserve-mobilize.web.app/)
-- **Client Code**: [GitHub Repo](https://github.com/junayet4o12/mediserve-mobilize)
-- **Server Code**: [GitHub Repo](https://github.com/junayet4o12/mediserve-mobilize-backend)
-
----
-
-### 📝 Blog Vortex
-
-A React and Vite-powered blog platform featuring secure Firebase authentication and JWT for enhanced security. The platform focuses on a smooth user experience with advanced UI components.
-
-- **Tech Stack**: React, Vite, Firebase, JWT, Framer Motion, React Data Table.
-- **Demo**: [Blog Vortex Live](https://blog-16a2c.web.app/)
-- **Client Code**: [GitHub Repo](https://github.com/junayet4o12/blog-vortex)
-- **Server Code**: [GitHub Repo](https://github.com/junayet4o12/blog-vortex-backend)
+### Tech Stack: React, Tailwind, Node.js, MongoDB, Socket.io.
 
 ---
 
-### 🛍️ Panda Electronics
+# 📑 Formify
+A web application for creating and sharing forms for efficient data collection.
 
-An e-commerce platform with MongoDB for data management and Firebase for secure access. Responsive design and theme toggling are integrated to create a seamless user experience.
+- **Duration**: Apr 2024
+- **Live Demo**: [View Here](https://formify-99f7d.web.app/)
+- **Code**: [Client](https://github.com/junayet4o12/form-maker) | [Server](https://github.com/junayet4o12/form-maker-backend)
 
-- **Tech Stack**: React, MongoDB, Firebase, Tailwind CSS.
-- **Demo**: [Panda Electronics Live](https://dimple-firebase-b07ed.web.app)
-- **Client Code**: [GitHub Repo](https://github.com/junayet4o12/panda-electronics)
-- **Server Code**: [GitHub Repo](https://github.com/junayet4o12/panda-electronics-backend)
+### Features:
+- Form creation and data sharing with secure access.
+
+### Tech Stack: React, Tailwind, Node.js, MongoDB.
 
 ---
+
+# 🏥 Mediserve Mobilize
+A medical camp management system featuring user roles and payment integration.
+
+- **Duration**: Nov 2023
+- **Live Demo**: [View Here](https://mediserve-mobilize.web.app/)
+- **Code**: [Client](https://github.com/junayet4o12/mediserve-mobilize) | [Server](https://github.com/junayet4o12/mediserve-mobilize-backend)
+
+### Features:
+- Role-based access and Stripe integration for payments.
+
+### Tech Stack: React, Tailwind, Node.js, MongoDB.
+
+---
+
 
 <h2 style="font-size: 1.8em;">🤝 Let's Connect</h2>
 
 <p align="left">
-  <a href="https://bd.linkedin.com/in/muhammad-maruf-79b442214" target="_blank">
+  <a href="https://www.linkedin.com/in/junayet-alam/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100056107479254&mibextid=qWsEUC" target="_blank">
@@ -94,10 +117,12 @@ An e-commerce platform with MongoDB for data management and Firebase for secure 
 
 <h2 style="font-size: 1.8em;">🎯 Future Goals</h2>
 
-- **Explore** advanced **DevOps** practices to automate and scale deployments.
-- **Master** containerization with **Docker** and orchestration with **Kubernetes**.
-- **Contribute** more to **open-source projects** and collaborate with developers globally.
-- **Improve** my skills in **serverless** and **cloud-native** technologies.
+- **Explore** problem-solving techniques to tackle complex challenges.
+- **Focus** on UI integration updates for enhanced user experience.
+- **Develop** and refine my app development skills across various platforms.
+- **Participate** in problem-solving contests to sharpen my abilities and connect with like-minded individuals.
+
+
 
 ---
 
