@@ -44,13 +44,13 @@
 <h2 style="font-size: 1.8em; color: #f3d559;">📈 GitHub Stats</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=junayet4o12&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
-  <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=junayet4o12&theme=gotham&hide_border=true" alt="GitHub Streak" />
+  <img height="200px" width="400px" src="JunayetAlam" alt="GitHub Stats" />
+  <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=JunayetAlam&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div style="margin-top: 20px;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junayet4o12&bg_color=0c1014&color=259076&line=259076&point=259076&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunayetAlam&bg_color=0c1014&color=259076&line=259076&point=259076&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </div>
 
@@ -60,7 +60,7 @@
 <h2 style="font-size: 1.8em; color: #f3d559;">📊 Top Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayet4o12&layout=compact&theme=gotham" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunayetAlam&layout=compact&theme=gotham" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ A fitness tracking platform integrating with Strava, allowing users to monitor h
 
 - **Duration**: Jan 2024 – Mar 2024
 - **Live Demo**: [View Here](https://fitness-studio.surge.sh/)
-- **Code**: [Client](https://github.com/junayet4o12/Fitness-Studio-Client-Side) | [Server](https://github.com/junayet4o12/fitnessStudio-serverSide) | [Socket.io](https://github.com/junayet4o12/fitness-studio-socket-io)
+- **Code**: [Client](https://github.com/JunayetAlam/Fitness-Studio-Client-Side) | [Server](https://github.com/JunayetAlam/fitnessStudio-serverSide) | [Socket.io](https://github.com/JunayetAlam/fitness-studio-socket-io)
   
 ### Features:
 - User profile updates and fitness tracking.
@@ -91,7 +91,7 @@ A web application for creating and sharing forms for efficient data collection.
 
 - **Duration**: Apr 2024
 - **Live Demo**: [View Here](https://formify-99f7d.web.app/)
-- **Code**: [Client](https://github.com/junayet4o12/form-maker) | [Server](https://github.com/junayet4o12/form-maker-backend)
+- **Code**: [Client](https://github.com/JunayetAlam/form-maker) | [Server](https://github.com/JunayetAlam/form-maker-backend)
 
 ### Features:
 - Form creation and data sharing with secure access.
@@ -105,7 +105,7 @@ A medical camp management system featuring user roles and payment integration.
 
 - **Duration**: Nov 2023
 - **Live Demo**: [View Here](https://mediserve-mobilize.web.app/)
-- **Code**: [Client](https://github.com/junayet4o12/mediserve-mobilize) | [Server](https://github.com/junayet4o12/mediserve-mobilize-backend)
+- **Code**: [Client](https://github.com/JunayetAlam/mediserve-mobilize) | [Server](https://github.com/JunayetAlam/mediserve-mobilize-backend)
 
 ### Features:
 - Role-based access and Stripe integration for payments.
