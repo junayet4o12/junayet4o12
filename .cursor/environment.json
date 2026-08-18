@@ -1,0 +1,10 @@
+{
+  "name": "Profile README",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "preview",
+      "command": "npm run preview"
+    }
+  ]
+}

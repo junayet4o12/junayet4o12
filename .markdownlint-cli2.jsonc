@@ -1,0 +1,17 @@
+{
+  // GitHub profile READMEs rely heavily on raw HTML, badge images, and long
+  // lines, so the purely cosmetic rules are disabled and the checks that catch
+  // real problems (broken structure, bad links) are kept.
+  "config": {
+    "default": true,
+    "MD013": false, // line length: badge/HTML lines are intentionally long
+    "MD033": false, // inline HTML: required for profile README layout
+    "MD041": false, // first line heading: file starts with a banner <img>
+    "MD022": false, // blanks around headings: cosmetic
+    "MD024": false, // duplicate headings ("Features:", "Tech Stack:")
+    "MD026": false, // trailing punctuation in headings
+    "MD032": false, // blanks around lists: cosmetic
+    "MD001": false  // heading increment: cosmetic for this layout
+  },
+  "globs": ["README.md"]
+}
