@@ -107,10 +107,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunayetAlam&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JunayetAlam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
-</p>
-
 ---
 
 ## 📌 Featured Projects
