@@ -14,8 +14,6 @@
 
 <hr style="border: 1px solid #f3d559;" />
 
-
-
 <h2 style="font-size: 1.8em; color: #f3d559;">🚀 About Me</h2>
 
 <ul style="color: #ffffff; font-size: 1.1em; list-style-type: disc; padding-left: 20px;">
@@ -53,7 +51,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunayetAlam&bg_color=0c1014&color=259076&line=259076&point=259076&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </div>
-
 
 <hr style="border: 1px solid #f3d559;" />
 
