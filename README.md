@@ -109,7 +109,36 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/JunayetAlam/free-chat-frontend">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JunayetAlam&repo=free-chat-frontend&theme=tokyonight&hide_border=true" alt="Flexi Chat — Real-Time Chat (Frontend)" />
+  </a>
+  <a href="https://github.com/JunayetAlam/funded-for-you-frontend">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JunayetAlam&repo=funded-for-you-frontend&theme=tokyonight&hide_border=true" alt="Funded For You — Prop-Firm Marketplace (Frontend)" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/JunayetAlam/kahfcollective-frontend">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JunayetAlam&repo=kahfcollective-frontend&theme=tokyonight&hide_border=true" alt="Kahf Collective — LMS (Frontend)" />
+  </a>
+  <a href="https://github.com/JunayetAlam/cycle-craze-frontend">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JunayetAlam&repo=cycle-craze-frontend&theme=tokyonight&hide_border=true" alt="Cycle Craze — E-Commerce (Frontend)" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/JunayetAlam/free-chat-backend">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JunayetAlam&repo=free-chat-backend&theme=tokyonight&hide_border=true" alt="Flexi Chat — Real-Time Chat (Backend)" />
+  </a>
+  <a href="https://github.com/JunayetAlam/funded-for-you-backend">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JunayetAlam&repo=funded-for-you-backend&theme=tokyonight&hide_border=true" alt="Funded For You — Prop-Firm Marketplace (Backend)" />
+  </a>
+</p>
+
+---
+
+## 📂 Featured Projects — Details
 
 ### 💬 Flexi Chat — Login-less Real-Time Chat (PWA)
 
