@@ -95,8 +95,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunayetAlam&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Junayet's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunayetAlam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunayetAlam&theme=tokyonight" alt="Junayet's GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunayetAlam&theme=tokyonight" alt="Most used languages" />
 </p>
 
 <p align="center">
