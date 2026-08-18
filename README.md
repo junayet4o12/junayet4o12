@@ -19,19 +19,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Full Stack Developer at **Shakil Education Group**, building and maintaining a **multi-tenant SaaS** for study-abroad application management.
-- 💼 **3+ years** of experience — previously **Backend Developer @ SM Technology** and **Junior Web Developer @ DeveloperLook**.
-- 🧩 I specialise in **backend architecture**: REST APIs, real-time systems (WebSocket / Socket.io), authentication, multi-tenancy and payment gateways.
-- 🌱 Currently deepening **system design, Redis and performance optimisation**.
-- 🎓 **BSc in CSE** @ Northern University Bangladesh (2025 – Present) · **Diploma in Computer Technology**, Feni Polytechnic Institute (CGPA 3.44).
-- 📫 Reach me at **junayet.alam@outlook.com** · 📍 Feni / Dhaka, Bangladesh
-- ⚡ Fun fact: I love turning complex problems into simple, reliable systems.
+- Full Stack Developer at **Shakil Education Group**, building and maintaining a **multi-tenant SaaS** for study-abroad application management.
+- **3+ years** of experience — previously **Backend Developer @ SM Technology** and **Junior Web Developer @ DeveloperLook**.
+- I specialise in **backend architecture**: REST APIs, real-time systems (WebSocket / Socket.io), authentication, multi-tenancy and payment gateways.
+- Currently deepening **system design, Redis and performance optimisation**.
+- **BSc in CSE** @ Northern University Bangladesh (2025 – Present) · **Diploma in Computer Technology**, Feni Polytechnic Institute (CGPA 3.44).
+- Reach me at **junayet.alam@outlook.com** · Feni / Dhaka, Bangladesh
+- Fun fact: I love turning complex problems into simple, reliable systems.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -92,7 +92,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunayetAlam&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Junayet's GitHub stats" />
@@ -109,12 +109,12 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
     <td valign="top">
-      <h3 align="center">💬 Flexi Chat</h3>
+      <h3 align="center">Flexi Chat</h3>
       <p align="center"><b>Login-less Real-Time Chat · PWA</b><br/><sub><code>Personal</code></sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -137,7 +137,7 @@
 <table width="100%">
   <tr>
     <td valign="top">
-      <h3 align="center">📈 Funded For You</h3>
+      <h3 align="center">Funded For You</h3>
       <p align="center"><b>Prop-Firm Comparison Marketplace</b><br/><sub><code>Team</code></sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -159,7 +159,7 @@
 <table width="100%">
   <tr>
     <td valign="top">
-      <h3 align="center">🎓 Kahf Collective</h3>
+      <h3 align="center">Kahf Collective</h3>
       <p align="center"><b>Learning Management System</b><br/><sub><code>Team</code></sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -182,7 +182,7 @@
 <table width="100%">
   <tr>
     <td valign="top">
-      <h3 align="center">🚲 Cycle Craze</h3>
+      <h3 align="center">Cycle Craze</h3>
       <p align="center"><b>E-Commerce Store</b><br/><sub><code>Personal</code></sub></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -203,7 +203,7 @@
 </table>
 
 <details>
-<summary><b>🗂️ More projects</b></summary>
+<summary><b>More projects</b></summary>
 
 - **Zamshed Store** — grocery shop management with Firebase auth, Cloudinary image hosting and JWT-protected APIs · [Frontend](https://github.com/JunayetAlam/zamshed_store_frontend) · [Backend](https://github.com/JunayetAlam/zamshed_store_backend-2.0)
 - **Formify** — a faster alternative to Google Forms for building and sharing custom forms · [Live](https://formify-99f7d.web.app/) · [Frontend](https://github.com/JunayetAlam/form-maker) · [Backend](https://github.com/JunayetAlam/form-maker-backend)
@@ -213,7 +213,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period |
 | --- | --- | --- |
@@ -223,7 +223,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="https://www.junayetalam.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
