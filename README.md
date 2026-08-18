@@ -19,19 +19,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Full Stack Developer at **Shakil Education Group**, building and maintaining a **multi-tenant SaaS** for study-abroad application management.
-- 💼 **3+ years** of experience — previously **Backend Developer @ SM Technology** and **Junior Web Developer @ DeveloperLook**.
-- 🧩 I specialise in **backend architecture**: REST APIs, real-time systems (WebSocket / Socket.io), authentication, multi-tenancy and payment gateways.
-- 🌱 Currently deepening **system design, Redis and performance optimisation**.
-- 🎓 **BSc in CSE** @ Northern University Bangladesh (2025 – Present) · **Diploma in Computer Technology**, Feni Polytechnic Institute (CGPA 3.44).
-- 📫 Reach me at **junayet.alam@outlook.com** · 📍 Feni / Dhaka, Bangladesh
-- ⚡ Fun fact: I love turning complex problems into simple, reliable systems.
+- Full Stack Developer at **Shakil Education Group**, building and maintaining a **multi-tenant SaaS** for study-abroad application management.
+- **3+ years** of experience — previously **Backend Developer @ SM Technology** and **Junior Web Developer @ DeveloperLook**.
+- I specialise in **backend architecture**: REST APIs, real-time systems (WebSocket / Socket.io), authentication, multi-tenancy and payment gateways.
+- Currently deepening **system design, Redis and performance optimisation**.
+- **BSc in CSE** @ Northern University Bangladesh (2025 – Present) · **Diploma in Computer Technology**, Feni Polytechnic Institute (CGPA 3.44).
+- Reach me at **junayet.alam@outlook.com** · Feni / Dhaka, Bangladesh
+- Fun fact: I love turning complex problems into simple, reliable systems.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -92,11 +92,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunayetAlam&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Junayet's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunayetAlam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunayetAlam&theme=tokyonight" alt="Junayet's GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JunayetAlam&theme=tokyonight" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -109,38 +109,101 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 💬 Flexi Chat — Login-less Real-Time Chat (PWA)
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h3 align="center">Flexi Chat</h3>
+      <p align="center"><b>Login-less Real-Time Chat · PWA</b><br/><sub><code>Personal</code></sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square" alt="WebSocket" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      </p>
+      <p align="left">A production-grade PWA for anonymous, real-time group chat. Visitors get a guest identity on first load, create or join rooms via invite codes, and message with live presence — no signup required. Includes edit/delete, unread tracking, optimistic send with retry, and layered rate limiting.</p>
+      <p align="center">
+        <a href="https://flexi-chat.junayetalam.me"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/JunayetAlam/free-chat-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend" /></a>
+        <a href="https://github.com/JunayetAlam/free-chat-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-A production-grade Progressive Web App for anonymous, real-time group chat. Visitors get a guest identity on first load, create or join rooms via invite codes, and message with live presence — no signup required. Includes edit/delete, unread tracking, optimistic send with retry, and layered rate limiting.
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h3 align="center">Funded For You</h3>
+      <p align="center"><b>Prop-Firm Comparison Marketplace</b><br/><sub><code>Team</code></sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+      </p>
+      <p align="left">A fintech affiliate marketplace where traders discover and compare proprietary trading firms across Forex and Futures — spreads, challenges, offers and best sellers — with a full admin dashboard. Bilingual English/Arabic with automatic RTL support and real-time messaging.</p>
+      <p align="center">
+        <a href="https://github.com/JunayetAlam/funded-for-you-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend" /></a>
+        <a href="https://github.com/JunayetAlam/funded-for-you-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- **Live:** [flexi-chat.junayetalam.me](https://flexi-chat.junayetalam.me) · **Code:** [Frontend](https://github.com/JunayetAlam/free-chat-frontend) · [Backend](https://github.com/JunayetAlam/free-chat-backend)
-- **Stack:** Next.js 16 · React 19 · TypeScript · Redux Toolkit · WebSocket · PWA · PostgreSQL · Express · Prisma · JWT · Cloudinary
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h3 align="center">Kahf Collective</h3>
+      <p align="center"><b>Learning Management System</b><br/><sub><code>Team</code></sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      </p>
+      <p align="left">A faith-based learning platform combining a full LMS, performance analytics, community forums and a content library. Admins and instructors manage users, courses, assignments and team-based access; students join teams, complete courses and submit assignments for evaluation.</p>
+      <p align="center">
+        <a href="https://kahfcollective.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/JunayetAlam/kahfcollective-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend" /></a>
+        <a href="https://github.com/JunayetAlam/kahfcollective-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 📈 Funded For You — Prop-Firm Comparison Marketplace `Team`
-
-A fintech affiliate marketplace where traders discover and compare proprietary trading firms across Forex and Futures — spreads, challenges, offers and best sellers — with a full admin dashboard. Bilingual English/Arabic with automatic RTL support and real-time messaging.
-
-- **Code:** [Frontend](https://github.com/JunayetAlam/funded-for-you-frontend) · [Backend](https://github.com/JunayetAlam/funded-for-you-backend)
-- **Stack:** Next.js 16 · React 19 · TypeScript · shadcn/ui · Framer Motion · Node.js · Express · PostgreSQL · Prisma · Stripe · Socket.io · Zod
-
-### 🎓 Kahf Collective — Learning Management System `Team`
-
-A faith-based learning platform combining a full LMS, performance analytics, community forums and a content library. Admins and instructors manage users, courses, assignments and team-based access; students join teams, complete courses and submit assignments for evaluation.
-
-- **Live:** [kahfcollective.vercel.app](https://kahfcollective.vercel.app) · **Code:** [Frontend](https://github.com/JunayetAlam/kahfcollective-frontend) · [Backend](https://github.com/JunayetAlam/kahfcollective-backend)
-- **Stack:** Next.js 16 · React 19 · TypeScript · shadcn/ui · dnd-kit · Node.js · Express · MongoDB · Prisma · JWT · Stripe · node-cron
-
-### 🚲 Cycle Craze — E-Commerce Store
-
-A modern, responsive e-commerce frontend for a bicycle store with product browsing, cart, secure checkout and an admin catalog — built on React 19 + Vite with a typed Redux Toolkit data layer and a secure API backend.
-
-- **Live:** [cycle-craze-frontend.vercel.app](https://cycle-craze-frontend.vercel.app) · **Code:** [Frontend](https://github.com/JunayetAlam/cycle-craze-frontend) · [Backend](https://github.com/JunayetAlam/bi-cicle-backend)
-- **Stack:** React 19 · TypeScript · Vite · Redux Toolkit · Tailwind CSS · Node.js · Express
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h3 align="center">Cycle Craze</h3>
+      <p align="center"><b>E-Commerce Store</b><br/><sub><code>Personal</code></sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      </p>
+      <p align="left">A modern, responsive e-commerce frontend for a bicycle store with product browsing, cart, secure checkout and an admin catalog — built on React 19 + Vite with a typed Redux Toolkit data layer and a secure API backend.</p>
+      <p align="center">
+        <a href="https://cycle-craze-frontend.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/JunayetAlam/cycle-craze-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend" /></a>
+        <a href="https://github.com/JunayetAlam/bi-cicle-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>🗂️ More projects</b></summary>
+<summary><b>More projects</b></summary>
 
 - **Zamshed Store** — grocery shop management with Firebase auth, Cloudinary image hosting and JWT-protected APIs · [Frontend](https://github.com/JunayetAlam/zamshed_store_frontend) · [Backend](https://github.com/JunayetAlam/zamshed_store_backend-2.0)
 - **Formify** — a faster alternative to Google Forms for building and sharing custom forms · [Live](https://formify-99f7d.web.app/) · [Frontend](https://github.com/JunayetAlam/form-maker) · [Backend](https://github.com/JunayetAlam/form-maker-backend)
@@ -150,7 +213,7 @@ A modern, responsive e-commerce frontend for a bicycle store with product browsi
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period |
 | --- | --- | --- |
@@ -160,7 +223,7 @@ A modern, responsive e-commerce frontend for a bicycle store with product browsi
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="https://www.junayetalam.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
