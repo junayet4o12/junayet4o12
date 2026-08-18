@@ -111,9 +111,9 @@
 
 ## 📌 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3 align="center">💬 Flexi Chat</h3>
       <p align="center"><b>Login-less Real-Time Chat · PWA</b><br/><sub><code>Personal</code></sub></p>
       <p align="center">
@@ -131,7 +131,12 @@
         <a href="https://github.com/JunayetAlam/free-chat-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td valign="top">
       <h3 align="center">📈 Funded For You</h3>
       <p align="center"><b>Prop-Firm Comparison Marketplace</b><br/><sub><code>Team</code></sub></p>
       <p align="center">
@@ -149,8 +154,11 @@
       </p>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3 align="center">🎓 Kahf Collective</h3>
       <p align="center"><b>Learning Management System</b><br/><sub><code>Team</code></sub></p>
       <p align="center">
@@ -168,7 +176,12 @@
         <a href="https://github.com/JunayetAlam/kahfcollective-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td valign="top">
       <h3 align="center">🚲 Cycle Craze</h3>
       <p align="center"><b>E-Commerce Store</b><br/><sub><code>Personal</code></sub></p>
       <p align="center">
